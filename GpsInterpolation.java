@@ -1,6 +1,6 @@
 /**    
 * @Title: GpsInterpolation.java 
-* @Description: 三次样条插值，实现gps插值 
+* @Description: gps插值，主要使用三次样条插值算法 
 * @author zwq   
 * @Create date 2016-03-23
 * @Modify 
